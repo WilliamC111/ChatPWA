@@ -2,7 +2,7 @@
   "id": "/?source=pwa",
   "name": "Chat para Héroes",
   "short_name": "PWA Chat",
-  "description": "Una PWA de chat de ejemplo que demuestra el uso completo del manifest para una rica experiencia de instalación e integración con el sistema operativo.",
+  "description": "Una PWA de chat de ejemplo que demuestra el uso del manifest para una mejor experiencia de instalación e integración con el sistema operativo.",
   "lang": "es-MX",
   "dir": "ltr",
   "categories": ["social", "chat", "education"],
